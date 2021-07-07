@@ -1,6 +1,6 @@
 # ExploratoryDataAnalysis
 
-Using the Salesstore data that is provided here , perform univariate & bivariate analysis of the fields/variables.Take help from the Seaborn & Matplotlib library (or any other plotting library of choice) along with basic stats that can be insightful in understanding the data. Use two or more variables to define how their behaviour is driven with respect ot each other by showcasing on plots.
+Using the Salesstore data that is provided here , perform EDA via univariate & bivariate analysis of the fields/variables.Take help from the Seaborn & Matplotlib library (or any other plotting library of choice) along with basic stats that can be insightful in understanding the data. Use two or more variables to define how their behaviour is driven with respect ot each other by showcasing on plots.
 
 Be creative and perform different *meaningful* plots to bring out better understanding of the underlying SalesStore data .
 
