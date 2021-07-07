@@ -17,11 +17,12 @@ Seaborn library :
 
 Matplotlib Library :
 
-1.Pyplot tutorial : https://matplotlib.org/stable/tutorials/introductory/pyplot.html
-2. All charts : https://matplotlib.org/stable/gallery/index.html
-
+1.  Pyplot tutorial : https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+2.  All charts : https://matplotlib.org/stable/gallery/index.html
 
 
 Univariate data plotting : https://www.analyticsvidhya.com/blog/2020/07/univariate-analysis-visualization-with-illustrations-in-python/
 
 Bivariate data plotting : https://www.kaggle.com/residentmario/bivariate-plotting-with-pandas
+
+Submission timeline : Jul 8th midnight
