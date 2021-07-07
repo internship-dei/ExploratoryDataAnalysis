@@ -14,6 +14,7 @@ Seaborn library :
 4. Violin Plot : https://seaborn.pydata.org/generated/seaborn.violinplot.html
 5. Bar Plot :https://seaborn.pydata.org/generated/seaborn.histplot.html
 6. Pair plot : https://seaborn.pydata.org/generated/seaborn.pairplot.html
+7. Facet Grid : https://seaborn.pydata.org/generated/seaborn.FacetGrid.html
 
 Matplotlib Library :
 
