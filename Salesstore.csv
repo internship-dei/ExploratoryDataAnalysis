@@ -59,10 +59,10 @@ Order_ID	Order_Priority	Order_Quantity	Sales	Ship_Mode	Profit	Customer_Name	Regi
 8992	High	3	441.43	Regular Air	-154.45	Shahid Shariari	West	Corporate	Furniture	Chairs & Chairmats	Hon Olson Stacker Stools	Large Box
 20961	Not Specified	34	6607.92	Regular Air	1462.72	Lela Donovan	West	Corporate	Technology	Copiers and Fax	Canon PC-428 Personal Copier	Large Box
 47750	Low	1	195.04	Regular Air	-149.41	Sally Knutson	Atlantic	Corporate	Office Supplies	Storage & Organization	Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers	Large Box
-48230	Not Specified	31	2645.8	Regular Air	-684.78	Dana Kaydos	Prarie	Corporate	Office Supplies	Storage & Organization	Carina 42"Hx23 3/4"W Media Storage Unit	Large Box
-36449	Not Specified	6	90.75	Regular Air	-26.39	Bruce Stewart	Ontario	Corporate	Furniture	Office Furnishings	Tensor "Hersey Kiss" Styled Floor Lamp	Large Box
+48230	Not Specified	31	2645.8	Regular Air	-684.78	Dana Kaydos	Prarie	Corporate	Office Supplies	Storage & Organization	Carina 42 Hx23 3/4 W Media Storage Unit	Large Box
+36449	Not Specified	6	90.75	Regular Air	-26.39	Bruce Stewart	Ontario	Corporate	Furniture	Office Furnishings	Tensor Hersey Kiss Styled Floor Lamp	Large Box
 53152	Medium	9	196.41	Regular Air	27.91	Bill Eplett	Ontario	Corporate	Furniture	Office Furnishings	Telescoping Adjustable Floor Lamp	Large Box
-15907	High	36	3722.29	Express Air	950.68	Thomas Seio	Northwest Territories	Home Office	Furniture	Office Furnishings	Tenex 46" x 60" Computer Anti-Static Chairmat, Rectangular Shaped	Medium Box
+15907	High	36	3722.29	Express Air	950.68	Thomas Seio	Northwest Territories	Home Office	Furniture	Office Furnishings	Tenex 46 x 60 Computer Anti-Static Chairmat, Rectangular Shaped	Medium Box
 49952	High	12	1323.67	Express Air	630.28	Beth Thompson	Northwest Territories	Corporate	Furniture	Office Furnishings	Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39" x 49"	Medium Box
 5153	Critical	37	4896.93	Express Air	1467.82	Helen Abelman	Atlantic	Home Office	Furniture	Chairs & Chairmats	SAFCO Folding Chair Trolley	Medium Box
 25315	Low	36	7783.36	Express Air	3506.24	Joy Smith	Atlantic	Consumer	Office Supplies	Appliances	Holmes Harmony HEPA Air Purifier for 17 x 20 Room	Medium Box
